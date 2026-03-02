@@ -1,0 +1,31 @@
+# Aether Documentation Index
+
+- `/docs/specs/AetherLanguageSpecification.md` — Normative language rules.
+- `/docs/specs/AetherCompilerArchitectureSpec.md` — Reference compiler/runtime architecture.
+- `/AGENTS.md` — Autonomous engineering protocol and invariants.
+- `/docs/project/AetherProjectCharter.md` — Vision, goals, non-goals, success criteria.
+- `/docs/project/AetherImplementationRoadmap.md` — Milestone sequencing and delivery order.
+- `/docs/project/AetherExecutionBacklog.md` — Prioritized implementation queue.
+- `/docs/project/AetherConformanceAndQualityPlan.md` — Validation matrix and release gates.
+- `/docs/project/AetherADR.md` — Architecture decision record log/template.
+- `/README.md` — Project overview and onboarding entrypoint.
+- `/LICENSE` — Apache-2.0 licensing terms.
+- `/CONTRIBUTING.md` — Contribution workflow and expectations.
+- `/CODE_OF_CONDUCT.md` — Community behavior standards.
+- `/SECURITY.md` — Vulnerability reporting policy.
+- `/SUPPORT.md` — Help and support channels.
+- `/GOVERNANCE.md` — Maintainer model and decision process.
+- `/CHANGELOG.md` — Project-level change history.
+- `/CITATION.cff` — Citation metadata for research use.
+- `/docs/brand/aether-logo.svg` — Aether brand mark/logo.
+- `/website/*` — React + TailwindCSS + shadcn/ui website source.
+- `/docs/llms.txt` — Machine-readable LLM discovery index.
+- `/docs/.well-known/llms.txt` — Well-known LLM discovery endpoint.
+- `/docs/sitemap.xml` — Site URL inventory for indexers.
+- `/docs/robots.txt` — Crawler policy.
+- `/.github/workflows/pages.yml` — Automated website build and GitHub Pages deployment.
+- `/.github/copilot-instructions.md` — Agent decision-reference rules.
+- `/.github/CODEOWNERS` — Maintainer ownership mapping.
+- `/.github/FUNDING.yml` — Sponsorship/discovery metadata.
+- `/.github/ISSUE_TEMPLATE/*` — Structured issue intake templates.
+- `/.github/pull_request_template.md` — Standard PR checklist.

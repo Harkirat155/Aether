@@ -1,0 +1,12 @@
+# Default ownership
+* @harkirat155
+
+# Specs and architecture docs
+/docs/specs/* @harkirat155
+/docs/project/* @harkirat155
+
+# Community and governance
+/.github/* @harkirat155
+/README.md @harkirat155
+/CONTRIBUTING.md @harkirat155
+/SECURITY.md @harkirat155

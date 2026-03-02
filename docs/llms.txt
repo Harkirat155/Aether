@@ -1,0 +1,26 @@
+# Aether LLM Index
+
+Project: Aether
+Homepage: https://harkirat155.github.io/Aether/
+Repository: https://github.com/Harkirat155/Aether
+Primary docs index: https://harkirat155.github.io/Aether/project/AetherDocsIndex.md
+
+## Core specifications
+- https://harkirat155.github.io/Aether/specs/AetherLanguageSpecification.md
+- https://harkirat155.github.io/Aether/specs/AetherCompilerArchitectureSpec.md
+
+## Project process docs
+- https://harkirat155.github.io/Aether/project/AetherProjectCharter.md
+- https://harkirat155.github.io/Aether/project/AetherImplementationRoadmap.md
+- https://harkirat155.github.io/Aether/project/AetherExecutionBacklog.md
+- https://harkirat155.github.io/Aether/project/AetherConformanceAndQualityPlan.md
+- https://harkirat155.github.io/Aether/project/AetherADR.md
+
+## Agent guidance
+- https://github.com/Harkirat155/Aether/blob/main/AGENTS.md
+- https://github.com/Harkirat155/Aether/blob/main/.github/copilot-instructions.md
+
+## Discovery metadata
+- https://harkirat155.github.io/Aether/.well-known/llms.txt
+- https://harkirat155.github.io/Aether/sitemap.xml
+- https://harkirat155.github.io/Aether/robots.txt

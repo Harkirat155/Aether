@@ -1,0 +1,8 @@
+{
+  "name": "Aether",
+  "description": "A frontier programming language for agentic coding.",
+  "homepage": "https://harkirat155.github.io/Aether/",
+  "repository": "https://github.com/Harkirat155/Aether",
+  "docs_index": "https://harkirat155.github.io/Aether/project/AetherDocsIndex.md",
+  "llms": "https://harkirat155.github.io/Aether/llms.txt"
+}

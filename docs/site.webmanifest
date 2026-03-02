@@ -1,0 +1,9 @@
+{
+  "name": "Aether",
+  "short_name": "Aether",
+  "description": "The frontier language for agentic coding",
+  "start_url": "/Aether/",
+  "display": "standalone",
+  "background_color": "#070b16",
+  "theme_color": "#0f1b38"
+}

@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Design discussions
+    url: https://github.com/Harkirat155/Aether/discussions
+    about: Use Discussions for design proposals, philosophy, and roadmap collaboration.

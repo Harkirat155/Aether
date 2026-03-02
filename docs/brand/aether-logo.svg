@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Aether logo">
+  <rect width="512" height="512" rx="112" fill="#0A0F1F"/>
+
+  <!-- ring 1 -->
+  <circle cx="256" cy="256" r="170" stroke="#74D9FF" stroke-width="14" stroke-linecap="round" stroke-dasharray="320 36 320 36 320 36" transform="rotate(-6 256 256)"/>
+  <!-- ring 2 -->
+  <circle cx="256" cy="256" r="128" stroke="#8D83FF" stroke-width="14" stroke-linecap="round" stroke-dasharray="240 28 240 28 240 28" transform="rotate(-6 256 256)"/>
+  <!-- ring 3 -->
+  <circle cx="256" cy="256" r="86" stroke="#74D9FF" stroke-width="14" stroke-linecap="round" stroke-dasharray="160 20 160 20 160 20" transform="rotate(-6 256 256)"/>
+</svg>

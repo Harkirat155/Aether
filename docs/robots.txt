@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harkirat155.github.io/Aether/sitemap.xml

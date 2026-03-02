@@ -1,0 +1,27 @@
+name: Feature request
+description: Propose a feature for language, compiler, runtime, or docs.
+title: "[Feature]: "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem statement
+      description: What problem does this solve?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+  - type: textarea
+    id: safety
+    attributes:
+      label: Safety and replay impact
+      description: Effects/capabilities/human_gate/replay implications.

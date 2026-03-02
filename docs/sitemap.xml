@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://harkirat155.github.io/Aether/</loc>
+  </url>
+  <url>
+    <loc>https://harkirat155.github.io/Aether/specs/AetherLanguageSpecification.md</loc>
+  </url>
+  <url>
+    <loc>https://harkirat155.github.io/Aether/specs/AetherCompilerArchitectureSpec.md</loc>
+  </url>
+  <url>
+    <loc>https://harkirat155.github.io/Aether/project/AetherDocsIndex.md</loc>
+  </url>
+  <url>
+    <loc>https://harkirat155.github.io/Aether/llms.txt</loc>
+  </url>
+</urlset>

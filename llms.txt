@@ -1,0 +1,5 @@
+# Aether repository discovery pointer
+
+Primary hosted LLM index: https://harkirat155.github.io/Aether/llms.txt
+Primary docs index: docs/project/AetherDocsIndex.md
+Agent instructions: AGENTS.md and .github/copilot-instructions.md
