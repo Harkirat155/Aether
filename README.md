@@ -27,14 +27,6 @@ Aether is in specification-first development. Core language and reference compil
 - `docs/brand/aether-logo.svg` — Aether logo asset for docs/branding.
 - `docs/llms.txt` and `docs/.well-known/llms.txt` — machine-readable discovery for coding agents.
 
-## Discovery Setup
-1. In repository settings, set Pages source to **GitHub Actions**.
-2. Use `.github/workflows/pages.yml` to build/deploy the React website.
-3. Set repository description, homepage (`https://harkirat155.github.io/Aether/`), and topics (for example: `programming-language`, `compiler`, `agentic-ai`, `deterministic-systems`, `formal-methods`).
-4. Keep `docs/.nojekyll`, `docs/sitemap.xml`, `docs/robots.txt`, and `docs/llms.txt` current when docs paths change.
-5. Do not commit generated `docs/index.html` or `docs/assets/*`; they are produced by the Pages workflow from `website/`.
-6. Pin Aether in the GitHub profile and cross-link from related projects/posts.
-
 ## Collaboration Channels
 - Discussions (design, philosophy, roadmap): `https://github.com/Harkirat155/Aether/discussions`
 - Issues (bugs, feature requests, actionable tasks): `https://github.com/Harkirat155/Aether/issues`
