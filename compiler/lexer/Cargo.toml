@@ -1,0 +1,13 @@
+[package]
+name = "aether-lexer"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[lib]
+name = "aether_lexer"
+path = "src/lib.rs"
+
+[dependencies]
+aether-diag = { path = "../diag" }

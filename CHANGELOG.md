@@ -14,8 +14,10 @@ All notable project-level changes will be documented in this file.
 - Repository discovery pointers: `/llms.txt` and `/.well-known/llms.txt`.
 - React + TailwindCSS + shadcn/ui website source at `/website` with automated Pages deployment workflow.
 - Aether logo asset at `/docs/brand/aether-logo.svg` and website favicon/branding usage.
+- Rust workspace bootstrap for the reference compiler, including shared diagnostics/span infrastructure and an initial lexer implementation.
 
 ### Changed
 - Reorganized technical and project docs into `/docs/specs` and `/docs/project`.
 - Updated contributor and governance references to new documentation paths.
 - Migrated landing site implementation from static HTML/CSS to React with CI-generated Pages artifacts (`website/dist` -> deploy artifact).
+

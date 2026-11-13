@@ -2,3 +2,5 @@ website/node_modules
 website/dist
 docs/assets
 docs/index.html
+/target
+
